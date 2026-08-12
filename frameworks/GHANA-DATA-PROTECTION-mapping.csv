@@ -1,0 +1,11 @@
+Control_ID,Requirement,Legal_Source,AI_Governance_Area,Implementation_Control,Evidence,Example_Ghana_Use_Case
+GHA-DP-001,Lawful and fair processing,Data Protection Act 2012 Act 843,Data Governance,Document the lawful basis and purpose for processing personal data,Data processing register; privacy notice,University AI admissions system
+GHA-DP-002,Purpose limitation,Data Protection Act 2012 Act 843,Data Governance,Define and document the specific purpose of AI data processing,Data processing purpose statement,Bank credit scoring system
+GHA-DP-003,Data minimisation,Data Protection Act 2012 Act 843,Privacy,Collect only personal data necessary for the AI purpose,Data inventory; data minimisation assessment,Hospital AI diagnostic system
+GHA-DP-004,Accuracy of personal data,Data Protection Act 2012 Act 843,Data Quality,Establish procedures for correcting inaccurate personal data,Data quality policy; correction records,Insurance claims AI
+GHA-DP-005,Security safeguards,Data Protection Act 2012 Act 843,Security,Apply appropriate technical and organisational safeguards to personal data,Security controls; access logs; encryption evidence,Fintech AI application
+GHA-DP-006,Transparency,Data Protection Act 2012 Act 843,Transparency,Inform individuals about relevant processing of their personal data,Privacy notice; AI disclosure notice,University chatbot
+GHA-DP-007,Individual rights,Data Protection Act 2012 Act 843,Privacy,Provide mechanisms for individuals to exercise applicable data protection rights,Data subject request procedure; request logs,Customer service AI
+GHA-DP-008,Retention management,Data Protection Act 2012 Act 843,Data Lifecycle,Define retention periods and securely dispose of data when no longer required,Retention schedule; deletion logs,Hospital patient-data AI
+GHA-DP-009,Data Protection Impact Assessment,Data Protection Act 2012 Act 843,AI Risk Management,Assess high-risk processing involving personal data and new technologies,DPIA; risk assessment,Facial recognition system
+GHA-DP-010,Accountability,Data Protection Act 2012 Act 843,Governance,Maintain documented evidence demonstrating compliance,Compliance register; audit reports,Enterprise AI platform

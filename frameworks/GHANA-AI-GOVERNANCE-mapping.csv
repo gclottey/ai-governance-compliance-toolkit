@@ -1,0 +1,13 @@
+Control_ID,Ghana_AI_Governance_Area,National_AI_Strategy_Context,Governance_Requirement,Implementation_Control,Evidence,Example_Ghana_Use_Case
+GHA-AI-001,Responsible AI,Responsible and human-centred AI,AI systems should be designed and deployed responsibly,Document responsible AI principles for each AI system,AI governance policy; system assessment,Government service chatbot
+GHA-AI-002,Human Oversight,Human-centred AI,Important AI decisions should have appropriate human oversight,Define human review and override procedures,Human oversight procedure; approval logs,University admissions AI
+GHA-AI-003,Fairness and Inclusion,Inclusive AI,Assess whether AI systems create unfair outcomes for affected groups,Conduct bias and fairness testing,Bias assessment report,Loan approval AI
+GHA-AI-004,Local Relevance,AI reflecting Ghanaian values and realities,Assess whether AI performs appropriately within the Ghanaian context,Conduct Ghana-specific validation and user testing,Local validation report,Ghanaian-language chatbot
+GHA-AI-005,Transparency,Responsible AI governance,Document what the AI system does and how it is used,Publish internal AI system documentation,AI system card; user notice,Public-sector AI assistant
+GHA-AI-006,Accountability,AI governance,Assign clear responsibility for AI systems,Appoint system owner and governance approver,AI registry; responsibility matrix,University HR AI
+GHA-AI-007,AI Risk Management,Responsible AI ecosystem,Identify and manage risks throughout the AI lifecycle,Complete AI impact and risk assessment,Risk assessment; mitigation plan,Healthcare AI
+GHA-AI-008,AI Literacy and Capacity,AI talent and capacity development,Ensure users and responsible staff understand AI risks and limitations,Provide AI governance and literacy training,Training records,Corporate AI programme
+GHA-AI-009,Local Language and Culture,AI that understands local languages and culture,Test AI systems for relevant Ghanaian language and cultural contexts,Conduct language and cultural evaluation,Customer service chatbot
+GHA-AI-010,Monitoring and Continuous Improvement,Responsible AI deployment,Monitor deployed AI systems and address emerging risks,Establish periodic AI reviews and monitoring,Financial fraud detection AI
+GHA-AI-011,Stakeholder Engagement,Inclusive AI governance,Consider affected stakeholders during AI design and deployment,Document stakeholder consultation,Public-sector decision-support AI
+GHA-AI-012,Innovation with Responsibility,AI adoption for national development,Balance innovation with safety accountability and public interest,Complete governance review before deployment,AgriTech crop advisory AI

@@ -1,0 +1,13 @@
+Control_ID,Requirement,Legal_Source,AI_Governance_Area,Implementation_Control,Evidence,Example_Ghana_Use_Case
+GHA-CS-001,Cybersecurity governance,Cybersecurity Act 2020 Act 1038,AI Security,Assign responsibility for cybersecurity risks associated with AI systems,Cybersecurity policy; responsibility matrix,Enterprise AI platform
+GHA-CS-002,Risk identification,Cybersecurity Act 2020 Act 1038,AI Risk Management,Identify cybersecurity threats affecting AI systems,AI threat assessment; risk register,Banking fraud detection AI
+GHA-CS-003,Security controls,Cybersecurity Act 2020 Act 1038,AI Security,Implement appropriate technical and organisational security controls,Security architecture; control evidence,Government AI platform
+GHA-CS-004,Incident management,Cybersecurity Act 2020 Act 1038,Incident Response,Establish procedures for detecting reporting and responding to cybersecurity incidents,Incident response plan; incident records,Healthcare AI system
+GHA-CS-005,Access control,Cybersecurity Act 2020 Act 1038,Identity and Access Management,Restrict access to AI models data APIs and administration functions,Access control list; authentication logs,Fintech AI platform
+GHA-CS-006,Audit logging,Cybersecurity Act 2020 Act 1038,Accountability,Maintain logs of security-relevant activities and AI administration actions,Audit logs; monitoring records,Enterprise chatbot
+GHA-CS-007,Data security,Cybersecurity Act 2020 Act 1038,Data Protection and Security,Protect AI training data input data output data and system secrets,Encryption; secrets management; security tests,Hospital AI system
+GHA-CS-008,Vulnerability management,Cybersecurity Act 2020 Act 1038,AI Security,Regularly assess and remediate vulnerabilities in AI infrastructure,Penetration test; vulnerability scan,AI API platform
+GHA-CS-009,Third-party security,Cybersecurity Act 2020 Act 1038,Vendor Risk,Assess cybersecurity risks introduced by AI vendors and external APIs,Vendor security assessment; contracts,Cloud AI provider
+GHA-CS-010,Resilience and recovery,Cybersecurity Act 2020 Act 1038,Business Continuity,Maintain backup recovery and continuity procedures for critical AI services,Backup records; disaster recovery test,Critical infrastructure AI
+GHA-CS-011,Secure AI development,Cybersecurity Act 2020 Act 1038,Secure Development,Apply secure development and testing practices to AI applications,Secure SDLC evidence; test results,AI software platform
+GHA-CS-012,Incident reporting,Cybersecurity Act 2020 Act 1038,Regulatory Compliance,Determine applicable cybersecurity incident reporting obligations and procedures,Incident report; notification record,Financial services AI
